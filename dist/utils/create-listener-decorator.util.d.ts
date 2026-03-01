@@ -1,0 +1,2 @@
+export declare function createListenerDecorator(method: string): (...args: unknown[]) => (target: object, key?: string | symbol, descriptor?: PropertyDescriptor) => PropertyDescriptor | void;
+//# sourceMappingURL=create-listener-decorator.util.d.ts.map

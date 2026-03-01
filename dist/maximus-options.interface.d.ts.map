@@ -1,0 +1,1 @@
+{"version":3,"file":"maximus-options.interface.d.ts","sourceRoot":"","sources":["../src/maximus-options.interface.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,oBAAoB;IACnC,KAAK,EAAE,MAAM,CAAC;IACd,kFAAkF;IAClF,QAAQ,CAAC,EAAE,KAAK,CAAC;QAAE,IAAI,EAAE,MAAM,CAAC;QAAC,WAAW,EAAE,MAAM,CAAA;KAAE,CAAC,CAAC;IACxD,gGAAgG;IAChG,OAAO,CAAC,EAAE,QAAQ,EAAE,CAAC;CACtB"}

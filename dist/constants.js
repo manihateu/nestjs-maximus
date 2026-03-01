@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.MAX_EVENTS = exports.PARAM_ARGS_METADATA = exports.LISTENERS_METADATA = exports.UPDATE_METADATA = exports.DEFAULT_BOT_NAME = exports.MAXIMUS_BOT_NAME = exports.MAXIMUS_MODULE_OPTIONS = void 0;
+const constants_1 = require("@nestjs/common/constants");
+exports.MAXIMUS_MODULE_OPTIONS = 'MAXIMUS_MODULE_OPTIONS';
+exports.MAXIMUS_BOT_NAME = 'MAXIMUS_BOT';
+exports.DEFAULT_BOT_NAME = 'DefaultMaximusBot';
+exports.UPDATE_METADATA = 'MAXIMUS_UPDATE_METADATA';
+exports.LISTENERS_METADATA = 'MAXIMUS_LISTENERS_METADATA';
+exports.PARAM_ARGS_METADATA = constants_1.ROUTE_ARGS_METADATA;
+exports.MAX_EVENTS = ['bot_started', 'message_created', 'message_callback'];
