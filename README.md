@@ -136,7 +136,7 @@ MAX_BOT_TOKEN=ваш_токен_от_Master_Bot
 
 ### Альтернатива: IMaximusUpdateHandler
 
-Можно не использовать декораторы, а реализовать интерфейс `IMaximusUpdateHandler` и зарегистрировать провайдер с токеном `MAXIMUS_UPDATE_HANDLER` — см. старую версию README в репозитории.
+Можно не использовать декораторы, а реализовать интерфейс `IMaximusUpdateHandler` (метод `handle(ctx: MaximusContext): Promise<void>`) и зарегистрировать провайдер с токеном `MAXIMUS_UPDATE_HANDLER`
 
 ### Keyboard
 
