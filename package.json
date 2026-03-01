@@ -1,6 +1,6 @@
 {
   "name": "@manihateu/nestjs-maximus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NestJS adapter for MAX messenger bot API",
   "author": "manihateu",
   "license": "MIT",
