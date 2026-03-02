@@ -8,7 +8,7 @@ NestJS adapter for **MAX** messenger bot API — полный аналог [nest
 ## Установка
 
 ```bash
-npm install nestjs-maximus @maxhub/max-bot-api
+npm install @manihateu/nestjs-maximus @maxhub/max-bot-api
 ```
 
 ## Быстрый старт (декораторы, как в nestjs-telegraf)
